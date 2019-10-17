@@ -1,6 +1,8 @@
 {
   "name": "AngIsland",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "feb9a4f5"
 }
